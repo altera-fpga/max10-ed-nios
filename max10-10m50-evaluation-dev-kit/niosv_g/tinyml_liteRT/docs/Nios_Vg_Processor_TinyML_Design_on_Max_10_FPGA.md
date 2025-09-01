@@ -140,5 +140,5 @@ niosv-download -g -r ready_to_test/tflite_app.elf -c 1
 ```console
 juart-terminal -c 1 -i 0 
 ```
-![TinyML Result](https://github.com/altera-fpga/max10-ed-nios/tree/rel/24.1std/max10-10m50-evaluation-dev-kit/niosv_g/tinyml_liteRT/img/Inference_Output_0.png)
+![TinyML Result](https://github.com/altera-fpga/max10-ed-nios/blob/rel/24.1std/max10-10m50-evaluation-dev-kit/niosv_g/tinyml_liteRT/img/Inference_Output_0.png)
 
