@@ -30,7 +30,7 @@ There are three variants of the NiosV core:
 # 1. max10-10m50-evaluation-dev-kit   
 Example Designs using Nios V as the core based on Max® 10 FPGA 10M50 Evaluation Kit
 
-Development Kit product page- https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/max/10m50.html 
+Development Kit product page- https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/max/10m50-evaluation-kit.html 
 
 The following table contains the list of the designs on Max® 10 FPGA 10M50 Evaluation Kit
 
