@@ -30,13 +30,15 @@ There are three variants of the NiosV core:
 # 1. max10-10m50-evaluation-dev-kit   
 Example Designs using Nios V as the core based on Max® 10 FPGA 10M50 Evaluation Kit
 
-Development Kit product page- https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/max/10m50-evaluation-kit.html 
+Development Kit product page- https://www.altera.com/products/devkit/po-3021/max-10-fpga-10m50-evaluation-kit
 
 The following table contains the list of the designs on Max® 10 FPGA 10M50 Evaluation Kit
 
 | No # | Design Name Prefix (Nios V core) | Design Name Suffix (Functions) | Description |
 | - | --- | ------ | ----------- |
-| 1 | Nios V/g | Nios V/g TinyML LiteRT | This design demonstrates the TinyML application using LiteRT for microcontrollers software with Nios® V/g processor<br>[Design details](max10-10m50-evaluation-dev-kit/niosv_g/tinyml_liteRT/docs/Nios_Vg_Processor_TinyML_Design_on_Max_10_FPGA.md) |
+| 1 | Nios V/g | Nios V/g Iperf | This design demonstrates the Iperf application using Nios® V/g processor<br>[Design details](max10-10m50-evaluation-dev-kit/niosv_g/max10_iperf/docs/niosv_g_processor_iperf_design_on_max10_FPGA.md) |
+| 2 | Nios V/g | Nios V/g SSS | This design demonstrates the Simple Socket Server (SSS) application using Nios® V/g processor<br>[Design details](max10-10m50-evaluation-dev-kit/niosv_g/max10_sss/docs/niosv_g_processor_sss_design_on_max10_FPGA.md) |
+
 
 
 Refer to the documents in the following link for More information on the Nios V Processor core - [https://www.intel.com/content/www/us/en/support/programmable/support-resources/support-centers/nios-v-support.html ](https://www.intel.com/content/www/us/en/support/programmable/support-resources/support-centers/nios-v-support.html#introtext_1506028531_1693475107)
